@@ -17,7 +17,7 @@ cd deepface-api
 
 pip install -r requirements.txt
 
-##🚀 Run the Server
+## 🚀 Run the Server
 uvicorn app:app --reload
 
 ## Face Verification Endpoint
